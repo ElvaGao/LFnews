@@ -1,1 +1,1 @@
-LittleFries 静态页面
+新闻 静态页面
